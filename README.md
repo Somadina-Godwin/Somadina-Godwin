@@ -1,14 +1,13 @@
 ### Hi👋, I'm Somadina Ogbonnaya
 
 
-
 A data analyst and researcher  with pedigree in exploratory data analysis, data storytelling and data visualization. I love problem solving and finding patterns in data with experience in analyzing large streams of live data and undertaking analysis projects from data collection to visualization.
 
 - 🔭 I’m currently working on becoming the best Data Analyst
 - 🌱 I’m currently learning to become a Data Scientist
 - 👯 I’m looking to collaborate on Data Analysis projects
 - 💬 Ask me about everything data
-- 📝 I sometimes write articles on [Medium](https://medium.com/@confidencevandu)
+- 📝 I sometimes write articles on [Medium](https://medium.com/@somadinaogbonnaya4)
 
 
 ### 📫 How to reach me:
