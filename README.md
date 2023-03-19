@@ -13,10 +13,9 @@ A data scientist who loves numerical problem solving and finding patterns in dat
 
 ### 📫 How to reach me:
 
-[![Github](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/VanduFido)
-[![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/confidence-vandu-89253a174)
-[![gmail](https://img.shields.io/badge/Gmail-ff0000?style=for-the-badge&logo=Gmail&logoColor=white)](https://confidencevandu@gmail.com)
-[![Credly](https://img.shields.io/badge/Credly-orange?style=for-the-badge&logo=Credly&logoColor=white)](https://www.credly.com/users/confidence-vandu/badges)
+[![Github](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Somadina-Godwin)
+[![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/somadina-ogbonnaya-28aa13149)
+[![gmail](https://img.shields.io/badge/Gmail-ff0000?style=for-the-badge&logo=Gmail&logoColor=white)](https://somadinaogbonnaya4@gmail.com)
 
 ### 📫 Technologies I use:
 
@@ -30,8 +29,8 @@ A data scientist who loves numerical problem solving and finding patterns in dat
 ![Excel](https://img.shields.io/badge/Spreadsheets-228b22?style=for-the-badge&logo=Excel&logoColor=white)
 
 ## My GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Somadina-Ogbonnaya)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Somadina-Ogbonnaya)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Somadina-Godwin)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Somadina-Godwin)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **VanduFido/VanduFido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
