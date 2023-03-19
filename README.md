@@ -2,11 +2,11 @@
 
 
 
-A data scientist who loves numerical problem solving and finding patterns in data. I am skilled in data analysis and data storytelling, with experience in analyzing large streams of live data and undertaking analysis projects from data collection, pipelining, to visualization and building machine learning models.
+A data analyst and researcher  with pedigree in exploratory data analysis, data storytelling and data visualization. I love problem solving and finding patterns in data with experience in analyzing large streams of live data and undertaking analysis projects from data collection to visualization.
 
-- 🔭 I’m currently working on becoming the best data scientist
-- 🌱 I’m currently learning to become a Machine Learning Engineer
-- 👯 I’m looking to collaborate on Data Science and Machine Learning projects
+- 🔭 I’m currently working on becoming the best Data Analyst
+- 🌱 I’m currently learning to become a Data Scientist
+- 👯 I’m looking to collaborate on Data Analysis projects
 - 💬 Ask me about everything data
 - 📝 I sometimes write articles on [Medium](https://medium.com/@confidencevandu)
 
@@ -26,7 +26,6 @@ A data scientist who loves numerical problem solving and finding patterns in dat
 ![Tableau](https://img.shields.io/badge/Tableau-white?style=for-the-badge&logo=Tableau&logoColor=072a6c)
 ![PowerBI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=PowerBI&logoColor=white)
 ![R](https://img.shields.io/badge/R-072a6c?style=for-the-badge&logo=R&logoColor=white)
-![Excel](https://img.shields.io/badge/Spreadsheets-228b22?style=for-the-badge&logo=Excel&logoColor=white)
 
 ## My GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Somadina-Godwin)](https://git.io/streak-stats)
@@ -44,14 +43,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I get high on music
--->
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
