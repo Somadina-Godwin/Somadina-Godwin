@@ -24,7 +24,7 @@ A data analyst and researcher  with pedigree in exploratory data analysis, data 
 ![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-white?style=for-the-badge&logo=Tableau&logoColor=072a6c)
 ![PowerBI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=PowerBI&logoColor=white)
-![R](https://img.shields.io/badge/R-072a6c?style=for-the-badge&logo=R&logoColor=white)
+![Excel](https://img.shields.io/badge/Spreadsheets-228b22?style=for-the-badge&logo=Excel&logoColor=white)
 
 ## My GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Somadina-Godwin)](https://git.io/streak-stats)
