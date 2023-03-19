@@ -1,5 +1,5 @@
-### Hi👋, I'm Somadina Ogbonnaya
-
+### Hi👋, I'm Somadina Godwin
+![image](https://user-images.githubusercontent.com/96174850/226178130-d1b898d9-68f7-4113-8b97-68340400a9a4.png)
 
 A data analyst and researcher  with pedigree in exploratory data analysis, data storytelling and data visualization. I love problem solving and finding patterns in data with experience in analyzing large streams of live data and undertaking analysis projects from data collection to visualization.
 
